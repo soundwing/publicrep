@@ -1,2 +1,2 @@
 <?php 
-	echo "index";	//トップん
+	echo "index";	//トップであることの証明
